@@ -151,7 +151,7 @@
 import streamlit as st
 import pandas as pd
 import io
-from Project.Main import main1
+from trial2 import main1
 
 # Title
 st.title("Excel/CSV File Upload and HTML Map Viewer")
