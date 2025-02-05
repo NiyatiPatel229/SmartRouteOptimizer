@@ -57,6 +57,13 @@ The system generates:
 - Detailed trip plans in Excel format
 - Interactive map visualization using Folium
 - Trip quality metrics and statistics
+- <img width="864" alt="image" src="https://github.com/user-attachments/assets/b6e11d0a-60c4-4de7-95c5-0d3acca97c85" />
+
+- <img width="864" alt="image" src="https://github.com/user-attachments/assets/df5c5273-afa2-4a2c-a6e5-e0d2ba23ecb9" />
+
+- <img width="848" alt="image" src="https://github.com/user-attachments/assets/901869db-7cd9-44ec-b230-3deab5e4e902" />
+
+
 
 ## Dependencies
 
